@@ -1,4 +1,4 @@
-#My-Portfolio
+# My-Portfolio
 My thought process while making this is I wanted a simple and nice blue dark theme.
 The Salmon colored accents really go well in contrast to the dark blue gradient background.
 ## Js-Functionality
