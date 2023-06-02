@@ -26,9 +26,9 @@ padding: 20px;
 const PngDiv = styled.div`
 display: flex;
 background-color: coral;
-width: 30%;
+width: 550px;
 border-radius: 10px;
-margin: auto;
+margin: 0 auto 200px auto;
 align-content: center;
 justify-content: center;
 box-shadow: 0 0 100px rgba(0, 0, 0, 0.3);
