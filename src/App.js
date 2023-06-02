@@ -1,17 +1,15 @@
 import GlobalStyles from "./GlobalStyles";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Homepage from "./Homepage";
+
 
 const App = () => {
   return (
     <>
-      <BrowserRouter>
         <GlobalStyles />
-        <Routes>
-          <Route path="/" element={<Homepage />} />
-          <Route path="/about" element={<h1>About page</h1>} />
-        </Routes>
-      </BrowserRouter>
+          <Homepage />
+          <h1>About me!</h1> 
+          <h1>My projects!</h1>
+          <h1>Contact me!</h1> 
     </>
   );
 };

@@ -1335,6 +1335,11 @@
   resolved "https://registry.yarnpkg.com/@eslint/js/-/js-8.41.0.tgz#080321c3b68253522f7646b55b577dd99d2950b3"
   integrity sha512-LxcyMGxwmTh2lY9FwHPGWOHmYFCZvbrFCBZL4FzSSsxsRPuhrYUg/49/0KDfW8tnIEaEHtfmn6+NPN+1DqaNmA==
 
+"@fontsource/m-plus-rounded-1c@^5.0.2":
+  version "5.0.2"
+  resolved "https://registry.yarnpkg.com/@fontsource/m-plus-rounded-1c/-/m-plus-rounded-1c-5.0.2.tgz#9ea3b26c1eddb2670f802a5cd65f05abb6873d41"
+  integrity sha512-30NY9MRGCRwKukE++auk+pAPnXEy2B4gwCKWxCjOlOfm06IGRAgcDinK9ZzyjxvsYqYpn2xVMCON5wpM0bV5Bw==
+
 "@fontsource/poppins@^5.0.2":
   version "5.0.2"
   resolved "https://registry.yarnpkg.com/@fontsource/poppins/-/poppins-5.0.2.tgz#0f06a1adb3f8584114818e7c21a7d480450dae7c"
