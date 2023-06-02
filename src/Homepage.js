@@ -6,7 +6,7 @@ import HeroPage from "./HeroPage";
 
 const Homepage = () => {
   return (
-    <>
+    <div id="home-section">
       <GlobalStyles />
       <Navbar />
       <Wrapper>
@@ -18,7 +18,7 @@ const Homepage = () => {
           </div>
         </MainHeader>
       </Wrapper>
-    </>
+    </div>
   );
 };
 
@@ -30,12 +30,16 @@ const Wrapper = styled.div`
 `;
 
 const MainHeader = styled.div`
+  width: 95%;
+  padding: 30px;
   text-align: center;
   display: flex;
   flex-direction: column;
   align-content: center;
   justify-content: center;
   margin: 0 auto;
+  background-color: #05092e;
+  border-radius: 10px;
 `;
 
 export default Homepage;
